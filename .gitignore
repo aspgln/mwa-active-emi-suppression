@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat.bak
+slprj/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Outputs (uncomment if you generate these locally)
+# figures/
+# results/
