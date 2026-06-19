@@ -4,7 +4,8 @@ MATLAB code and example datasets accompanying:
 
 > **Active Electromagnetic Interference Suppression for MRI and Proton
 > Resonance Frequency Shift Thermometry during MRI-Guided Microwave Ablation.**
-> Q. Dai et al. *Magnetic Resonance in Medicine* (accepted, 2026). DOI: forthcoming.
+> Q. Dai et al. *Magnetic Resonance in Medicine* (2026).
+> DOI: [10.1002/mrm.70440](https://doi.org/10.1002/mrm.70440)
 
 
 ## Overview
