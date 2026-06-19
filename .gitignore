@@ -4,6 +4,14 @@
 *.mat.bak
 slprj/
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
+python/archive/
+
 # OS / editor
 .DS_Store
 Thumbs.db
